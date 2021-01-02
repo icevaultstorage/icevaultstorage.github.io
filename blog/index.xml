@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest News on IceVault</title>
+    <title>Latest Posts on IceVault</title>
     <link>https://icevault.in/blog/</link>
-    <description>Recent content in Latest News on IceVault</description>
+    <description>Recent content in Latest Posts on IceVault</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="https://icevault.in/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Adversus is a web-based dialer and practical CRM solution</title>
-      <link>https://icevault.in/blog/post-1/</link>
-      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
-      
-      <guid>https://icevault.in/blog/post-1/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
-    </item>
-    
     <item>
       <title>Adversus is a web-based dialer and practical CRM solution</title>
       <link>https://icevault.in/blog/post-4/</link>
@@ -59,6 +50,15 @@
       
       <guid>https://icevault.in/blog/post-3/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+    <item>
+      <title>Why qa</title>
+      <link>https://icevault.in/blog/post-1/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://icevault.in/blog/post-1/</guid>
+      <description></description>
     </item>
     
   </channel>
